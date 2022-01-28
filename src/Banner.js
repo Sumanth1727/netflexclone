@@ -1,7 +1,7 @@
 import React, { useState,useEffect } from 'react';
 import requests from './request';
 import instance from './axiosrequest';
-import ReactPlayer from 'react-player'
+// import ReactPlayer from 'react-player'
 import "./Banner.css"
 
 function Banner() {

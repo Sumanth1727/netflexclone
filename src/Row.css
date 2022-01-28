@@ -18,12 +18,12 @@
     padding: 20px;
 }
 .row_poster:hover{
-    transform: scale(1.11); 
+    transform: scale(1.5); 
 } 
 .row_posterlarge{
     max-height: 450px;
 }
 
 .row_posterlarge:hover{
-    transform: scale(1.13); 
+    transform: scale(1.6); 
 } 
