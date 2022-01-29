@@ -1,5 +1,10 @@
 *{
   margin: 0;
-  background-color: black;
+  
   color: azure;
+}
+
+.row_background{
+  background-color: rgb(0, 0, 0);
+  
 }
