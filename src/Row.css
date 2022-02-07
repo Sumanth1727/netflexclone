@@ -8,14 +8,15 @@
     width: 150px;
 }
   
-.row_posters::-webkit-scrollbar{
-    display: none;
-}
+
 .row_posters{
     display: flex;
     overflow-y: hidden;
     overflow-x: scroll;
     padding: 20px;
+}
+.row_posters::-webkit-scrollbar{
+    display: none;
 }
 .row_poster:hover{
     transform: scale(1.5); 
@@ -25,5 +26,5 @@
 }
 
 .row_posterlarge:hover{
-    transform: scale(1.6); 
+    transform: scale(1.232); 
 } 
